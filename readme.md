@@ -2,6 +2,10 @@
 
 ## Usage
 
+```ps
+cat Cargo.toml | toml-to-json.exe
 ```
-cat Cargo.toml | 
+
+```bash
+cat Cargo.toml | toml-to-json 
 ```
